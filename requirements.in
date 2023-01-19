@@ -1,0 +1,10 @@
+black
+isort
+flake8
+pdbpp
+
+pytest
+
+discord
+peewee
+litecli
